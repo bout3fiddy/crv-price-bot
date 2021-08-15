@@ -6,7 +6,7 @@ from discord.ext import commands
 
 
 bot = commands.Bot(command_prefix=".")
-token = "ODc2NTgxODQ2Mjc0Njc0NzM5.YRmKdg.nYVzjvbENl2oFfaovgcoJzyOKmw"
+token = ""
 guild_id = 850700789831958559
 
 COINGECKO = CoinGeckoAPI()
